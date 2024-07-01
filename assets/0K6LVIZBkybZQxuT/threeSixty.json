@@ -1,0 +1,42 @@
+{
+  "version": "3.88.32474.0",
+  "course_id": "5pRKvu8Zl7o_course_id",
+  "title": "FC_Challenge_252",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6Ic0tS8Dut6",
+      "title": "Intro",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "61OWb7O9BKj",
+      "title": "Signs",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6I0n5LxlpA2",
+      "title": "Email",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6W8TFkfkz8G",
+      "title": "Feedback",
+      "scene_index": "1.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1020,
+    "height": 582
+  },
+  "stage": {
+    "width": 1000,
+    "height": 562
+  }
+}
