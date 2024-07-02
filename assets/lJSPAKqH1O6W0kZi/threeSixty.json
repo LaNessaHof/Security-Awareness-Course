@@ -1,0 +1,27 @@
+{
+  "version": "3.88.32474.0",
+  "course_id": "5ly5iUwkYqu",
+  "title": "Instructions",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Complete Credentials"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6rH5QWuRECz",
+      "title": "Instructions",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
